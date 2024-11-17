@@ -36,7 +36,7 @@ The dataset contains the following columns:
 
 ---
 
-## 📝 SQL Analysis[OLA_Analysis_Questions.sql]
+## 📝 [SQL Analysis](OLA_Analysis_Questions.sql)
 
 ### SQL Questions:
 
