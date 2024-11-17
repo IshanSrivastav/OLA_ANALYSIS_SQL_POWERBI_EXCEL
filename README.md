@@ -8,6 +8,9 @@ This project showcases advanced SQL and Power BI skills for analyzing ride data 
 
 This project involves analyzing a dataset containing ride details, cancellations, ratings, and payment methods. Using **SQL**, I extract insights through a series of queries, and with **Power BI**, I visualize patterns and trends to make data-driven decisions.
 
+[Dashboard](Ola_DashboardView_1.png)
+[Dashboard_2](View_2.png)
+
 ---
 
 ## 📂 [Dataset Structure](Bookings.csv)
