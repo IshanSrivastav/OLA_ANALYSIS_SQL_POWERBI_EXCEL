@@ -10,7 +10,7 @@ This project involves analyzing a dataset containing ride details, cancellations
 
 ---
 
-## 📂 Dataset Structure
+## 📂 [Dataset Structure](Bookings.csv)
 
 The dataset contains the following columns:
 
@@ -53,7 +53,7 @@ The dataset contains the following columns:
 
 ---
 
-## 📊 Power BI Analysis
+## 📊 [Power BI Analysis](Ola_Analysis_Dashboard.pbix)
 
 ### Power BI Insights:
 
